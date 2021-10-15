@@ -9,11 +9,11 @@
       "type": "boolean"
     },
     {
-      "name": "creationDate",
+      "name": "creationTime",
       "type": "timestamp"
     },
     {
-      "name": "updateDate",
+      "name": "updateTime",
       "type": "timestamp"
     },
     {
