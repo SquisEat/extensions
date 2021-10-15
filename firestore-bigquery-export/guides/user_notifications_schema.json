@@ -1,0 +1,24 @@
+{
+  "fields": [
+    {
+      "name": "supplierID",
+      "type": "string"
+    },
+    {
+      "name": "active",
+      "type": "boolean"
+    },
+    {
+      "name": "creationDate",
+      "type": "timestamp"
+    },
+    {
+      "name": "updateDate",
+      "type": "timestamp"
+    },
+    {
+      "name": "userID",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "name": "creationDate",
+      "type": "timestamp"
+    },
+    {
+      "name": "token",
+      "type": "string"
+    },
+    {
+      "name": "updateDate",
+      "type": "timestamp"
+    },
+    {
+      "name": "userID",
+      "type": "string"
+    }
+  ]
+}

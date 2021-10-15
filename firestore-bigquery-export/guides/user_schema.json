@@ -1,0 +1,74 @@
+{
+  "fields": [
+    {
+      "name": "completedSignUp",
+      "type": "boolean"
+    },
+    {
+      "name": "creationDate",
+      "type": "timestamp"
+    },
+    {
+      "name": "deviceInfo",
+      "type": "map",
+      "fields": [
+        {
+          "name": "appBuild",
+          "type": "string"
+        },
+        {
+          "name": "appId",
+          "type": "string"
+        },
+        {
+          "name": "appName",
+          "type": "string"
+        },
+        {
+          "name": "appVersion",
+          "type": "string"
+        },
+        {
+          "name": "isVirtual",
+          "type": "boolean"
+        },
+        {
+          "name": "manufacturer",
+          "type": "string"
+        },
+        {
+          "name": "model",
+          "type": "string"
+        },
+        {
+          "name": "operatingSystem",
+          "type": "string"
+        },
+        {
+          "name": "osVersion",
+          "type": "string"
+        },
+        {
+          "name": "platform",
+          "type": "string"
+        },
+        {
+          "name": "uuid",
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "newsletter",
+      "type": "boolean"
+    },
+    {
+      "name": "notification",
+      "type": "boolean"
+    },
+    {
+      "name": "updateDate",
+      "type": "timestamp"
+    }
+  ]
+}

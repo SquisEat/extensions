@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "name": "creationTime",
+      "type": "timestamp"
+    },
+    {
+      "name": "geocode",
+      "type": "geopoint"
+    },
+    {
+      "name": "updateTime",
+      "type": "timestamp"
+    },
+    {
+      "name": "searched",
+      "type": "boolean"
+    }
+  ]
+}
