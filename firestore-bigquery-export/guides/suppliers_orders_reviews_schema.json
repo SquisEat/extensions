@@ -1,0 +1,36 @@
+{
+  "fields": [
+    {
+      "name": "creationTime",
+      "type": "timestamp"
+    },
+    {
+      "name": "orderID",
+      "type": "string"
+    },
+    {
+      "name": "supplierID",
+      "type": "string"
+    },
+    {
+      "name": "userID",
+      "type": "string"
+    },
+    {
+      "name": "liked",
+      "type": "boolean"
+    },
+    {
+      "name": "badges",
+      "type": "array"
+    },
+    {
+      "name": "products",
+      "type": "array"
+    },
+    {
+      "name": "note",
+      "type": "string"
+    }
+  ]
+}
